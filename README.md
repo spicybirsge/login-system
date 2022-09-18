@@ -9,5 +9,5 @@ This is a simple username and password login system made with react and node usi
 3. In the backend directory add the variables as mentioned in the `env.example` file in it
 4. Run `npm run start` and `node index.js` in the client and backend directory respectively
 
-![](https://i.imgur.com/JG1Wskj.gif)
+![](https://i.imgur.com/bbKTOE5.gif)
 
